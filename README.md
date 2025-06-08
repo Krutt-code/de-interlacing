@@ -9,4 +9,4 @@
 
 ## Запуск
 ```bash
-python experiments/run_batch.py
+python -m experiments.run_batch
